@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm An Nguyen</h1>
 <h3 align="center">A passionate coder from Vietnam</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.videoplasty.com/animation/midnight-coding-late-night-session-lofi-animation-stock-animation-51917-1280x720.jpg" />
-- 🌱 I’m currently learning **Machine learning*
+- 🌱 I’m currently learning **Machine learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
